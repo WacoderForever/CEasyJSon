@@ -12,11 +12,11 @@ RECONSTRUCT = False
 
 #-----------------------------Lib---------------------------------------------------
 # Its the starter point of your lib
-STARTER = 'src/start.h'
+STARTER = 'src/CEasyJSon.h'
 #is the final name of your lib
-OUTPUT = 'LibName.h'
+OUTPUT = 'CEasyJSon.h'
 #These its the name of the output zip of your lib
-ZIP_NAME ='LibName'
+ZIP_NAME ='CEasyJSon'
 USE_VALGRIND = True
 
 

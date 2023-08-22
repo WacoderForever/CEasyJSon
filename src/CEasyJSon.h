@@ -22,9 +22,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
-#ifndef LibName
-#define LibName
+#ifndef CEasyJSon
+#define CEasyJSon
 #include "imports.h"
+#include "dependencies/cJSON.h"
+#include "dependencies/cJSON.c"
 #include "declaration.h"
 #include "definition.h"
 
